@@ -5,6 +5,6 @@ All matter and energy Exist in a single point of Time
 
 Objects contain properties and are governed by rules
 
-# rules
+## rules
 
 Rules are the parameters that govern how objects interact 
